@@ -1,0 +1,2 @@
+# Analyse SEO et Performance Web avec MozBar, Screaming Frog et SimilarWeb
+ Réalisation d'analyses approfondies de sites web en utilisant MozBar pour évaluer l'autorité du domaine et les backlinks, Screaming Frog pour détecter les erreurs techniques SEO et optimiser la structure du site, et SimilarWeb pour analyser le trafic, les sources et les tendances de la concurrence. Ces outils ont permis d'identifier les opportunités d'amélioration pour la stratégie SEO et la performance globale du site.
